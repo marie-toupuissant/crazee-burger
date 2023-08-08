@@ -16,7 +16,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <p>Salut Mari</p>
+      <p>Salut Marie</p>
 
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
